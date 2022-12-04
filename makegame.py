@@ -1,5 +1,5 @@
 import pgzrun;
-from random import randint
+from random import randint;
 WIDTH = 800
 HEIGHT = 650
 score = 0 
